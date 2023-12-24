@@ -57,7 +57,7 @@
 			<scope>test</scope>
 		</dependency>
 		
-		<!--this below dependency is use because in java 1.8 application showing som issue at bean initializatio-->
+		<!--this below dependencies are using, because in java 1.8 application showing some issue at bean initialization-->
 		
 		<!-- API, java.xml.bind module -->
 		<dependency>
